@@ -1,5 +1,6 @@
 <h1> :computer: Atlas T3 Full Stack: Implement a design from scratch </h1>
 
+![CSS3_and_HTML5_logos_and_wordmarks svg](https://github.com/MikeBilbee/atlas-headphones/assets/119973248/182d00e9-9fcc-4035-a101-8d17b38b0df4)
 
 
 <h5> :memo: Author: Mike Bilbee </h5>
