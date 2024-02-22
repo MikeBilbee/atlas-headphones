@@ -11,7 +11,7 @@ In this project we implement a design from scratch
 
 In this project we will continue implementing a basic webpage from scratch based on a [designer file](https://www.figma.com/file/FfnVADRC9xgI3yiZliTBYZ/Holberton-School---Headphone-company) from Figma.
 
-
+![logo_headphones](https://github.com/MikeBilbee/atlas-headphones/assets/119973248/64a1fd0d-8d03-43ac-a9bd-cac39751411e)
 
 ---
 
